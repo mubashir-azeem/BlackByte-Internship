@@ -1,0 +1,11 @@
+The dataset contains over 568,000 Amazon food product reviews, including customer feedback and ratings.
+
+Each entry includes review text, summary, rating (1–5 stars), user details, and product information.
+
+The Score column is used to derive sentiment labels (positive and negative) for classification tasks.
+
+The dataset is large and real-world, making it suitable for Natural Language Processing and sentiment analysis projects.
+
+It provides rich textual data that helps in analyzing customer opinions, product quality, and common issues.
+
+Dataset Link: https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
