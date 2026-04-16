@@ -1,0 +1,61 @@
+Symptom,Specialization
+chest pain,Cardiologist
+heart pain,Cardiologist
+shortness of breath,Cardiologist
+chest tightness,Cardiologist
+high blood pressure,Cardiologist
+palpitations,Cardiologist
+irregular heartbeat,Cardiologist
+swelling in legs,Cardiologist
+fatigue with heart issues,Cardiologist
+burning chest sensation,Cardiologist
+skin rash,Dermatologist
+acne,Dermatologist
+itching,Dermatologist
+eczema,Dermatologist
+skin allergy,Dermatologist
+dry skin,Dermatologist
+psoriasis,Dermatologist
+red spots on skin,Dermatologist
+skin irritation,Dermatologist
+sunburn,Dermatologist
+headache,Neurologist
+migraine,Neurologist
+dizziness,Neurologist
+seizures,Neurologist
+memory loss,Neurologist
+nerve pain,Neurologist
+tingling sensation,Neurologist
+blurred vision with headache,Neurologist
+lack of coordination,Neurologist
+brain fog,Neurologist
+joint pain,Orthopedic
+bone fracture,Orthopedic
+back pain,Orthopedic
+knee pain,Orthopedic
+arthritis,Orthopedic
+shoulder pain,Orthopedic
+muscle stiffness,Orthopedic
+joint swelling,Orthopedic
+difficulty walking,Orthopedic
+neck pain,Orthopedic
+fever,General Physician
+cough,General Physician
+cold,General Physician
+flu,General Physician
+sore throat,General Physician
+fatigue,General Physician
+body ache,General Physician
+vomiting,General Physician
+diarrhea,General Physician
+loss of appetite,General Physician
+stomach pain,Gastroenterologist
+acid reflux,Gastroenterologist
+indigestion,Gastroenterologist
+constipation,Gastroenterologist
+bloating,Gastroenterologist
+abdominal pain,Gastroenterologist
+gas problems,Gastroenterologist
+nausea,Gastroenterologist
+heartburn,Gastroenterologist
+stomach cramps,Gastroenterologist

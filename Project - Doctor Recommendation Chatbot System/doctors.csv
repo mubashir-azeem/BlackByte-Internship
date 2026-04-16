@@ -1,0 +1,29 @@
+Name,Specialization,Hospital,City,Availability
+Dr Ali,Cardiologist,Aga Khan Hospital,Karachi,Yes
+Dr Sara,Dermatologist,Ziauddin Hospital,Karachi,Yes
+Dr Ahmed,Neurologist,JPMC,Lahore,Yes
+Dr Fatima,Orthopedic,Shifa Hospital,Islamabad,No
+Dr Usman,Cardiologist,National Hospital,Lahore,Yes
+Dr Hina,Dermatologist,Aga Khan Hospital,Karachi,No
+Dr Bilal,Neurologist,Services Hospital,Lahore,Yes
+Dr Ayesha,Orthopedic,Ziauddin Hospital,Karachi,Yes
+Dr Hassan,Cardiologist,Liaquat Hospital,Karachi,Yes
+Dr Imran,Cardiologist,South City Hospital,Karachi,Yes
+Dr Naveed,Cardiologist,PIMS,Islamabad,Yes
+Dr Farah,Dermatologist,CMH,Lahore,Yes
+Dr Sana,Dermatologist,Indus Hospital,Karachi,Yes
+Dr Kamran,Neurologist,Mayo Hospital,Lahore,Yes
+Dr Saad,Neurologist,Shaukat Khanum,Lahore,Yes
+Dr Ali Raza,Orthopedic,CMH,Karachi,Yes
+Dr Usama,Orthopedic,PIMS,Islamabad,Yes
+Dr Maryam,General Physician,Indus Hospital,Karachi,Yes
+Dr Fahad,General Physician,Jinnah Hospital,Lahore,Yes
+Dr Bilal Khan,Gastroenterologist,Aga Khan Hospital,Karachi,Yes
+Dr Hira,Gastroenterologist,Services Hospital,Lahore,Yes
+Dr Salman,Gastroenterologist,PIMS,Islamabad,Yes
+Dr Zainab,General Physician,CMH,Lahore,Yes
+Dr Hamza,Cardiologist,Shifa Hospital,Islamabad,Yes
+Dr Rabia,Dermatologist,Liaquat Hospital,Karachi,Yes
+Dr Omer,Neurologist,Jinnah Hospital,Lahore,Yes
+Dr Taha,Orthopedic,Indus Hospital,Karachi,Yes
+Dr Adeel,Gastroenterologist,Mayo Hospital,Lahore,Yes
